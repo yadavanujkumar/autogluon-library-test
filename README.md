@@ -191,9 +191,6 @@ The [autogluon_tutorial.ipynb](autogluon_tutorial.ipynb) covers:
 - ✅ Making predictions
 - ✅ Customization tips
 
-## 🤝 Contributing
-
-Feel free to open issues or submit pull requests!
 
 ## 🎓 Learning Path
 
@@ -202,6 +199,3 @@ Feel free to open issues or submit pull requests!
 3. Explore `autogluon_kaggle_example.py` - Work with real datasets
 4. Deep dive with `autogluon_tutorial.ipynb` - Interactive learning
 
----
-
-**Happy AutoML! 🚀**
